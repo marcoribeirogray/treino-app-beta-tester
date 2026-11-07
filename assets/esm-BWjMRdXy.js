@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["./web-BANTRTBE.js","./main-DcnhdrE1.js","./main-Du3UR_l5.css"])))=>i.map(i=>d[i]);
+import{a as e,n as t}from"./main-DcnhdrE1.js";var n=e(`Share`,{web:()=>t(()=>import(`./web-BANTRTBE.js`).then(e=>new e.ShareWeb),__vite__mapDeps([0,1,2]),import.meta.url)});export{n as Share};

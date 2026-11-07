@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["./web-D--8JqQK.js","./main-DcnhdrE1.js","./main-Du3UR_l5.css"])))=>i.map(i=>d[i]);
+import{a as e,n as t}from"./main-DcnhdrE1.js";var n;(function(e){e[e.Flush=0]=`Flush`,e[e.Add=1]=`Add`})(n||={});var r=e(`TextToSpeech`,{web:()=>t(()=>import(`./web-D--8JqQK.js`).then(e=>new e.TextToSpeechWeb),__vite__mapDeps([0,1,2]),import.meta.url)});`speechSynthesis`in window&&window.speechSynthesis;export{r as TextToSpeech};
