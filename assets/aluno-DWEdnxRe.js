@@ -1,0 +1,1 @@
+import{t as e}from"./main-Dz6EAupd.js";e(`aluno`);

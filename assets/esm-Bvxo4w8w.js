@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["./web-DGJWzPZG.js","./main-Dz6EAupd.js","./main-DFlRScut.css"])))=>i.map(i=>d[i]);
+import{a as e,n as t}from"./main-Dz6EAupd.js";var n;(function(e){e[e.Sunday=1]=`Sunday`,e[e.Monday=2]=`Monday`,e[e.Tuesday=3]=`Tuesday`,e[e.Wednesday=4]=`Wednesday`,e[e.Thursday=5]=`Thursday`,e[e.Friday=6]=`Friday`,e[e.Saturday=7]=`Saturday`})(n||={});var r=e(`LocalNotifications`,{web:()=>t(()=>import(`./web-DGJWzPZG.js`).then(e=>new e.LocalNotificationsWeb),__vite__mapDeps([0,1,2]),import.meta.url)});export{r as LocalNotifications};
