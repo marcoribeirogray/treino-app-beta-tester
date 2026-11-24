@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["./web-CBxEiWS1.js","./main-CicesQc4.js","./main-DFlRScut.css"])))=>i.map(i=>d[i]);
+import{a as e,n as t}from"./main-CicesQc4.js";var n=e(`KeepAwake`,{web:()=>t(()=>import(`./web-CBxEiWS1.js`).then(e=>new e.KeepAwakeWeb),__vite__mapDeps([0,1,2]),import.meta.url)});export{n as KeepAwake};

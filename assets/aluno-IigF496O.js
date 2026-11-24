@@ -1,0 +1,1 @@
+import{t as e}from"./main-CicesQc4.js";e(`aluno`);
